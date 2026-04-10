@@ -1,4 +1,7 @@
 # SEO Blog Writer — Claude Skill
+![telegram-cloud-photo-size-4-5963180594780900429-y](https://github.com/user-attachments/assets/5d75ed29-b450-4d62-8b83-f962b56ca401)
+
+
 
 > **SEO blog writer for Claude Code.** Turn any URL, notes, or topic into a
 > human-sounding blog post that ranks on Google and beats AI detectors.

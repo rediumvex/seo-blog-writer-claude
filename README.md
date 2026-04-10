@@ -110,11 +110,11 @@ Five minutes of work. Everything else — the anti-AI rules, SEO field structure
 
 ## Who built this
 
-I'm **Roman Knox**. I run [AI Workshop](https://www.skool.com/aiworkshop) — a Skool community of builders shipping AI products that actually make money.
+I'm **Roman Knox**. I run [Knox Community](https://www.skool.com/knox-community-7232/) — a Skool community of builders shipping AI products that actually make money.
 
 I built this skill because I was spending 4 hours per post manually hand-editing AI output to sound human. Now it's one prompt.
 
-- 🎓 **[Join AI Workshop on Skool](https://www.skool.com/aiworkshop)** — n8n library, cold outreach systems, and the full stack of Claude skills that power knoxhub.io
+- 🎓 **[Join Knox Community on Skool](https://www.skool.com/knox-community-7232/)** — n8n library, cold outreach systems, and the full stack of Claude skills that power knoxhub.io
 - 📸 Instagram — [@roman.knox](https://www.instagram.com/roman.knox) · 280K+ followers
 - 📚 Knox Hub — [knoxhub.io](https://knoxhub.io) — see the skill in action on every post
 

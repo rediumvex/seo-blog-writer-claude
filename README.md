@@ -120,6 +120,7 @@ I built this skill because I was spending 4 hours per post manually hand-editing
 - 🎓 **[Join Knox Community on Skool](https://www.skool.com/knox-community-7232/)** — n8n library, cold outreach systems, and the full stack of Claude skills that power knoxhub.io
 - 📸 Instagram — [@roman.knox](https://www.instagram.com/roman.knox) · 280K+ followers
 - 📚 Knox Hub — [knoxhub.io](https://knoxhub.io) — see the skill in action on every post
+- 🤖 My other Claude skills — [Social Media Caption Generator](https://github.com/rediumvex/social-media-caption-generator-claude), [AI Video Generator](https://github.com/rediumvex/ai-video-generator-claude)
 
 ---
 

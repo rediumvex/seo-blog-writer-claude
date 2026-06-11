@@ -7,7 +7,7 @@
 > human-sounding blog post that ranks on Google and beats AI detectors.
 > Fills every SEO field, FAQ schema, and meta tag in one prompt.
 
-**This is the actual Claude skill I use to write every post on [knoxhub.io](https://knoxhub.io).**
+**This is the actual Claude skill I use to write every blog post I publish.**
 Not a template. Not a demo. The real thing — copied straight from my `~/.claude/skills/`.
 
 ---
@@ -101,7 +101,7 @@ You get back every field filled, ready to copy-paste into your CMS:
 
 ## Fork for your blog
 
-The skill is pre-configured for [knoxhub.io](https://knoxhub.io). To adapt it to your own blog, open `SKILL.md` and edit three sections:
+The skill ships pre-configured for my own blog. To adapt it to yours, open `SKILL.md` and edit three sections:
 
 1. **Voice & Tone** — change `Roman Knox` to your name and your positioning
 2. **Content Pillars** — list your blog's topics instead of Knox Hub's
@@ -117,9 +117,8 @@ I'm **Roman Knox**. I run [Knox Community](https://www.skool.com/knox/about) —
 
 I built this skill because I was spending 4 hours per post manually hand-editing AI output to sound human. Now it's one prompt.
 
-- 🎓 **[Join Knox Community on Skool](https://www.skool.com/knox/about)** — n8n library, cold outreach systems, and the full stack of Claude skills that power knoxhub.io
+- 🎓 **[Join Knox Community on Skool](https://www.skool.com/knox/about)** — n8n library, cold outreach systems, and the full stack of Claude skills I use in production
 - 📸 Instagram — [@theromanknox](https://www.instagram.com/theromanknox) · 280K+ followers
-- 📚 Knox Hub — [knoxhub.io](https://knoxhub.io) — see the skill in action on every post
 - 🤖 My other Claude skills — [Social Media Caption Generator](https://github.com/rediumvex/social-media-caption-generator-claude), [AI Video Generator](https://github.com/rediumvex/ai-video-generator-claude)
 
 ---

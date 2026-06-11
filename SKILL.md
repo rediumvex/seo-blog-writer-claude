@@ -7,7 +7,7 @@ description: |
   topic idea) and rewrites it as natural human-sounding content, then fills in
   all fields for the Knox Hub post editor: title, excerpt, SEO settings, FAQ schema,
   table of contents, sticky sidebar, and full article content in Markdown.
-  Output is ready to copy-paste into knoxhub.io admin.
+  Output is ready to copy-paste into your blog/CMS post editor.
   Use when asked to "write a post", "rewrite this", "сделай пост", "напиши статью",
   "перепиши это для блога", "create blog post", or any content creation task.
 allowed-tools:

@@ -119,7 +119,7 @@ I built this skill because I was spending 4 hours per post manually hand-editing
 
 - 🎓 **[Join Knox Community on Skool](https://www.skool.com/knox/about)** — n8n library, cold outreach systems, and the full stack of Claude skills I use in production
 - 📸 Instagram — [@theromanknox](https://www.instagram.com/theromanknox) · 280K+ followers
-- 🤖 My other Claude skills — [Social Media Caption Generator](https://github.com/rediumvex/social-media-caption-generator-claude), [AI Video Generator](https://github.com/rediumvex/ai-video-generator-claude)
+- 🤖 My other Claude skills — [Social Media Caption Generator](https://github.com/rediumvex/social-media-caption-generator-claude), [AI Video Generator](https://github.com/rediumvex/ai-video-generator-claude), [Meta Ads Doctor](https://github.com/rediumvex/meta-facebook-ads-optimizer-claude)
 
 ---
 
